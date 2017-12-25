@@ -2,7 +2,6 @@
 > react-后台管理系统
 
 [Home 主页](https://github.com/SuJunming/rc-admin)
-[Demo 示例](https://sujunming.github.io/)
 
 
   欢迎使用后台管理系统解决方案
