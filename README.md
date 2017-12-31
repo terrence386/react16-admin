@@ -49,7 +49,7 @@
 
 ##### 1.克隆项目
 ```js
-git clone https://github.com/SuJunming/rc-admin
+git clone https://github.com/SuJunming/react16-admin
 ```
 ##### 2.npm安装相关包文件(国内建议增加淘宝镜像源，不然很慢，你懂的😁)
 ```js
