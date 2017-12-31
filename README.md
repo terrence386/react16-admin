@@ -9,7 +9,6 @@
 - [GitHub地址](https://github.com/SuJunming/rc-admin)
 ### 依赖模块
 <span style="color: rgb(184,49,47);">项目是用create-react-app创建的，主要还是列出新加的功能依赖包</span>
-
 <span style="color: rgb(184,49,47);">点击名称可跳转相关网站😄😄</span>
 - [react](https://facebook.github.io/react/)<span style="color: rgb(243,121,52);">👍</span>
 - [react-router](https://react-guide.github.io/react-router-cn/)(<span style="color: rgb(243,121,52);">react路由👍</span>)
